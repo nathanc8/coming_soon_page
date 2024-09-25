@@ -133,7 +133,7 @@ form.error .error-text {
     height: 45vh;
   }
 }
-@media screen and (min-width: 850px) {
+@media screen and (min-width: 900px) {
   .desktop-picture {
     display: flex;
     background-image: url("images/hero-desktop.jpg");
